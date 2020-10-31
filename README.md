@@ -3,7 +3,7 @@
 [logo]: https://github.blog/wp-content/uploads/2018/06/41423501-548dd886-6fb0-11e8-9eff-6762378dd6bd.png ""
 
 # Template repository 
->butron_example ASIER ORMAETXEA
+>butron_example ASIER ORMAETXEA GARAIZAR GARAI
 
 [[_TOC_]]
 
