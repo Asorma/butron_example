@@ -5,7 +5,7 @@
 # Template repository 
 >butron_example ASIER ORMAETXEA GARAIZAR GARAI
 
-Ejemplo de comparacion
+Ejemplo de comparacion2
 
 [[_TOC_]]
 
